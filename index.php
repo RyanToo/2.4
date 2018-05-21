@@ -45,7 +45,7 @@ if (checkAuthorizate()) {
 
 
 		
-<p><input type="submit" value=""></p>
+<p><input type="submit" value="">отправить</p>
 
 	</form>
 	</fieldset>
