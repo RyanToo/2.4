@@ -1,0 +1,63 @@
+
+[{	"question": "Сколько будет 2+1:",
+	"input":[{
+
+		"answer":"1",
+		"value": "f",
+		"name": "a1"
+	    },{
+	    "value": "f",
+		"answer":"2",
+		"name": "a1"
+		},{
+	    "value": "tr",
+		"answer":"3",
+		"name": "a1"
+		},{
+	    "value": "f",
+		"answer":"4",
+		"name": "a1"
+		}]
+},{"question": "Сколько будет 2+2:",
+	"input":[{
+
+		"answer":"1",
+		"value": "f",
+		"name": "a2"
+	    },{
+	    "value": "f",
+		"answer":"2",
+		"name": "a2"
+		},{
+	    "value": "f",
+		"answer":"3",
+		"name": "a2"
+		},{
+	    "value": "tr",
+		"answer":"4",
+		"name": "a2"
+		}]
+	},{"question": "В каком году была Куликовская битва?",
+	"input":[{
+
+		"answer":"1380",
+		"value": "tr",
+		"name": "a3"
+	    },{
+	    "value": "f",
+		"answer":"1223",
+		"name": "a3"
+		},{
+	    "value": "f",
+		"answer":"1455",
+		"name": "a3"
+		},{
+	    "value": "f",
+	    "answer":"Вчера",
+		"name": "a3"
+		}]
+	}
+]	
+	
+	
+
